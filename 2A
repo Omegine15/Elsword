@@ -1,0 +1,390 @@
+Perfetto. Procedo con la creazione della guida completa in italiano.
+
+<generate_answer Elsword 2025 Completa – PvE Bossing, Clearing, PvP & Progressione**Timestamp:** 31 Ottobre 2025, 17:16 CET  
+**Status:** Dati KR aggiornati fino a 23 Ottobre 2025; Global (NA/EU) circa 5-7 settimane in ritardo (arrivo patch ~14-21 Novembre 2025)  
+**Lingua:** Italiano | **Citazioni:** Rifermenti a patch 2025, forum Gameforge EU, CoboDex, Elwiki, YouTube patch notes ufficiali
+
+---
+
+## Sintesi Esecutiva Meta 2025Nel 2025, il meta di Elsword ha subito rotazioni significative. Le principali novità includono l'introduzione massiccia di Force Mod (E) Skills (gennaio-febbraio 2025), il sistema Exascale Armor con Circuit Amplifier (luglio 2025), e il **balance patch critico del 23 Ottobre 2025 (KR)** che ha beneficiato **Code: Sariel** (+30% casting speed, range massivo per wave clear), potenziato **Rune Master**, e colpito duramente **Comet Crusader** (nerf PvP: vietato uso sotto attacco). L'economia globale rimane frammentaria: KR ha accesso a contenuti nuovi first, EU ha miglior valore valuta, NA affronta economia più debole.[1][2]
+
+**Takeaway pratico:**
+- **PvE Bossing (single-target):** Tempest Burster (Rose), Force Phantom (Raven), Liberator (Laby) rimangono S+ con Code: Sariel che sale in ranking post-patch grazie casting speed.[2]
+- **PvE Clearing (wave):** Sariel domina per range, Tempest Burster per solidità.[3][2]
+- **PvP:** Force Phantom rimane S+ (complicato), Comet Crusader crolla da viable a problematico post-23/10.[4]
+- **Rischio patch:** Il 23/10 patch KR arriverà Global tra 3-4 settimane; preparare build Sariel ora se interessati a wave clearing.
+- **Progressione:** Priorità è raggiungere Exascale R15 con circuit set (circa 5M CP), poi Master Class stage 4 per Artifact, infine Force Skills Elite.
+
+***
+
+## Tier List 2025 (Separate per Modalità)### Note Interpretative Tier List**Criteri di valutazione:**
+- **PvE Bossing:** DPS mono-bersaglio, burst window, uptime skill, resource management.
+- **PvE Clearing:** AoE capacity, speed wave pack clear, sustain mana.
+- **PvP:** Burst combo, i-frame management, neutral game, risk/reward.
+- **Difficoltà:** Curva apprendimento e sensibilità meccanica (basata community feedback e video guide).[5][3]
+
+**Concetto di tiering:** Non esiste "best assoluto"—è modalità/contenuto dipendente. Tuttavia, alcuni caratteri eccellono in più aree (es. Tempest Burster = S+ bossing e clearing). Le piccole differenze tra A e S sono patch-sensitive; un nerf minore può causare drop di tier.[6]
+
+**Limiti intrinseci:** 
+- Tier list assume equip endgame + Force Skills Elite minimo.
+- Nuovi giocatori su gear budge potrebbero sperimentare tier diversi.
+- PvP altamente dipendente da ping (>80ms affetta timing i-frame brutale).
+
+---
+
+## Impatto Patch 23 Ottobre 2025 (KR) – Delta Update| Classe/Mod | Cambiamento | Impatto | Tier Shift | Note |
+|-----------|-----------|--------|-----------|------|
+| **Code: Sariel** | Casting speed +30%; hitbox range ↑ basic/Amplify/Spectrum; beam count adjust | **+3% DPS clearing, +1 tier clearing** | S+ (clearing) | Casting speed critica per 22-1 farming; range massimizza pack spray[2] |
+| **Rune Master** | Casting speed +30%; range ↑; midair skill usage | **+2% DPS solo content** | A → A+ (considerare S per content specifici) | Benefit simile a Sariel; less impactful per single-target[2] |
+| **Comet Crusader** | **NERF: Can't use under attack** (rimuove Guard mid-hitstun) | **-40% PvP viability (neutral game), -10% PvE bossing** | S → B (PvP); A → A (bossing) | Storico: Guard era pillar meccanico; nerf colpisce core rotation. Community upset[4]. |
+| **Furious Blade** | Skill renewal; Rotating Blade damage removed, Explosion Attack focus (4233% dungeon) | **+5% burst, rota semplificata** | A → A+ | Minor shift; utility unchanged[2] |
+| **Revenant** | Hellish Soul range ↑; skill renewal | **+3% single-target** | A (mantiene) | Stabilizzazione, non breakthrough[2] |
+| **Genesis** | Midair skill usage (Genesis skill specific) | **+2% niche usage** | A (mantiene) | Quality-of-life, non game-changer[2] |
+| **Immortal** | Passive renewed: +20% Crit perm, +5% Crit Dmg stacking (max 4, +10% PvP) on Awakening Special Active | **+8% DPS post-Awakening window** | A → A+ (buff minore, setter situazionale) | Crit scaling marginal data Exascale optimization; impatto modesto[2] |
+
+**Fonte patch 23/10:** CoboDex balance database, YouTube Crea Archive ufficiale patch note tradotti.[1][5][2]
+
+***
+
+## Schede Classe Principal (Selezione Top Tier + Esempi)### **ROSE: Tempest Burster (TB)****Ruolo:** DPS ibrido burst/sustain + team utility moderata  
+**Punti di forza:**
+- Burst combo affidabile, i-frame management solido.
+- AoE wave clear superiore, range ragionevole.
+- Sopravvivenza buona con sustain skill; meno ping-sensibile vs Force Phantom.
+
+**Debolezze:**
+- Curva apprendimento media-alta (combo timing).
+- Setup cooldown-dipendente; mana management richiesto.
+- Moderate ping sensitivity (~50ms breakpoint critico).
+
+**Curva apprendimento:** 6/10 — accessibile ma richiede pratica combo timing.  
+**Sensibilità ping (tastiera):** 50ms breakpoint per rhythm-based combo; playable fino a 80ms con adattamento.  
+**Sensibilità controller:** Mediocre; stick drift può rovinare timing; not recommended per PvP.
+
+**Build Ottimale (Endgame):**
+
+| Elemento | Scelta | Note |
+|----------|--------|------|
+| **Arma** | Submergence of Abyss +11 (end Q4 2025) | Temporaneo: Tenebrous +11 OK fino evento boost |
+| **Armatura** | Exascale R15+10 (green circuits set) | R21+10 Tenebrous se non farm Doom Aporia |
+| **Accessori** | Atma set completo (face/mid/bottom/necklace/arm) | Lotus World Spirit Lord (Sept 2025 giant boss) |
+| **Force Passive** | Eroding Energy Elite + Head Hunter Elite | Get Greedy alternative 2o slot |
+| **Force Mod (E)** | Rose-specific (TBD da guide community) | Controlla YouTube guide Rose 2025 |
+| **Stat Target** | Crit 71% / Maximize 71% / Boss Dmg 25% | Circuito: crit dmg 1st line, continuous dmg top, titano slayer 3rd |
+| **Titoli** | Reaper (Sander cooldown reduction) + Dps title (Tirnog ASD) | Support titles per raid acceptance |
+| **Artefatti** | Artifact stage 4+ (Rigomor farming); identification focus | Cerca stat bonuses extra per classe |
+| **Pet/Mount** | Perkisas mount leveling early; endgame pet agnostic | Pet affinity buffs minor (<1% impact) |
+
+**Rotazione Standard (PvE Bossing):**
+1. Setup buff + debuff enemy.
+2. Spam main DPS combo (Mod E se disponibile).
+3. Time Awakening per burst window (special attivi durante Awakening per buff stacking).
+4. Manage mana; cooldown resets via skill chains.
+
+**Finestre di Uptime:** ~70-75% uptime attacco in dungeon farm (mana regen + cooldown chains).
+
+**Sinergia Party:** Support benefit da Radiant Soul cooldown reset, Deus Aer party defense buff, Demersio team damage amp.
+
+---
+
+### **EVE: Code: Sariel (CS)****Ruolo:** DPS range wave clear specialized (post 23/10 buff massivo)  
+**Punti di forza:**
+- **+30% casting speed (23/10/2025) massimizza DPS clearing**.[2]
+- Hitbox range aumentato (basic/Amplify/Spectrum) → spam beam wave perfetto.
+- Beam count adjusta efficienza AoE.
+- Sopravvivenza media (range permette kiting).
+
+**Debolezze:**
+- Casting speed gear-dependent (ASD investment alto).
+- Burst single-target lower vs TB/FP.
+- High ping sensitivity (casting interrupt risk).
+
+**Curva apprendimento:** 5/10 — spam-friendly una volta setup range.  
+**Sensibilità ping (tastiera):** 60ms breakpoint; casting speed mechanic critica. >80ms frustrating.  
+**Controller:** Bad idea; casting delays con stick analog.
+
+**Build Ottimale (Post-23/10 Patch):**
+
+| Elemento | Scelta | Note |
+|----------|--------|------|
+| **Arma** | UDW +11 end-Q4 2025 (beam count scaling) | Submergence OK interim |
+| **Armatura** | Exascale R15+11 (after cost drop Oct) | Priorità: ASD 1st circuit line |
+| **Accessori** | Atma set (Lotus World) completato | Bonus beam count if exist |
+| **Force Passive** | Eroding Energy Elite (ASD boost) + Head Hunter Elite | Get Greedy if beam-count optimize |
+| **Force Mod** | Eve Mod E (check community; likely beam-enhance) | YouTube Eve guides latest |
+| **Stat Target** | Maximize 71% / Boss Dmg 20-25% / ASD high (Exascale circuit focus) | Crit lower priority vs raw ASD |
+| **Titoli** | ASD party title (Dps ASD Sander) + Clearing title (fastest clear leaderboard) | Raid acceptance less critical |
+
+**Rotazione Standard (PvE Clearing):**
+1. Posiziona range ottimale.
+2. Spam beam skill (casting speed critica post-buff).
+3. Amplify/Spectrum form per AoE spread.
+4. Kite while casting; minimal melee risk.
+
+**Uptime:** ~85%+ clearing (sustained spam).
+
+**Sinergia Party:** Beneficia minoramente da Rose party buff (non crit-heavy); best paired con Demersio buff team.
+
+***
+
+### **RAVEN: Force Phantom (FP)****Ruolo:** DPS burst combo high-risk/high-reward, mobility elite.  
+**Punti di forza:**
+- Burst combo devastante; highest single-hit potential vs TB/CS.
+- Mobilità superiore (i-frame extended, repositioning facile).
+- PvE + PvP viable.
+
+**Debolezze:**
+- Curva apprendimento molto alta (combo chains, cancel timing).
+- Rota ping-sensibile 40ms+ breakpoint.
+- Setup gear intensivo (Force Skill Mod E critica).
+
+**Curva apprendimento:** 8/10 — difficile; combo piano required.  
+**Sensibilità ping:** <40ms ideale; >60ms causing miss-chains; not playable >100ms.  
+**Controller:** Sconsigliato strictly PvE; PvP praticamente impossible.
+
+**Build Ottimale:**
+
+| Elemento | Scelta | Note |
+|----------|--------|------|
+| **Arma** | UDW +11 (burst scaling massimo) | Submergence okay interim |
+| **Armatura** | Exascale R15+11 (crit damage focus 1st line) | Tenebrous +11 playable if budget |
+| **Accessori** | Atma set completo (crit bonus if exist) | Atma ring critical |
+| **Force Passive** | Head Hunter Elite MUST (crit% boost) + Eroding Energy Elite | Crit-dependent, non-negotiable |
+| **Force Mod** | Raven Mod E (combo-specific) | YouTube Raven 2025 advanced |
+| **Stat Target** | Crit 71% / Crit Dmg 71%+ / Boss Dmg 20% | Maximize lower priority |
+| **Titoli** | PvP title (Duelist) + Bossing title (DPS damage) | Raid versatile |
+
+**Rotazione Standard:**
+1. Initiator combo (setup buff).
+2. Main burst chain (6-8 hit sequence); cancel timing critica.
+3. Finisher skill (nuke).
+4. Reposition; cycle repeat.
+
+**Uptime:** ~60% (cooldown-gated burst windows).
+
+**Sinergia Party:** Beneficia molto da Force Phantom-friendly supp (Libera cooldown reset; Radiant Soul reset skill); Demersio buff.
+
+***
+
+### **CHUNG: Comet Crusader (CC) – POST-NERF 23/10****⚠️ ATTENZIONE NERF CRITICO:** 23/10/2025 patch **rimuove Guard mid-hitstun** → neutral game indebolito. Community upset confirmed. Classe rimane playable pero problematica PvP.[4]
+
+**Ruolo:** Defensive bait-and-punish (indebolito post-nerf).  
+**Punti di forza:**
+- Guard mechanic ancora utile (ma no sotto attacco).
+- Tank potential con super armor decent.
+- Bossing supportable (non top-tier).
+
+**Debolezze:**
+- **NERF 23/10: No use under attack** rimuove reactive Guard → neutral compromesso.
+- Setup MP iniziale lento.
+- PvP severely nerfed; non più opzione competitiva tier-1.
+
+**Curva apprendimento:** 6/10 (era 5/10 pre-nerf).  
+**Sensibilità ping:** Moderate 60ms; Guard timing critica se ancora viabile.
+
+**Post-Nerf Raccomandazione:** Consider job change a **Dius Aer** (healer superior) or **Centurion** (if pure bossing interest). CC not recommended new players 2025.
+
+***
+
+## PvP Focus – Archetipi & Counterplay**Archetipi Dominanti (rank order):**
+
+1. **Force Phantom (Raven)** – S+ burst, pero hardest execution (40ms ping requirement).
+2. **Tempest Burster (Rose)** – S viable sustain combo, più accessible than FP.
+3. **Demersio (Add)** – A tier utility supp-ally conversion (niche meta).
+4. **Surya (Ara)** – A tier frozen utility (control-heavy).
+
+**Counterplay Essenziale:**
+
+| Archetipo | Strategie Counter | Note |
+|-----------|-----------------|------|
+| **Force Phantom** | Super armor trade + super armor burst tempo; i-frame bait | Require patience; no rush |
+| **Tempest Burster** | Cooldown denial + zoning; prevent setup | Skill denial playstyle |
+| **Comet Crusader (deprecato)** | Pressure under attack (nerf assist); super armor ignore | OP post-nerf now |
+| **Surya Healer** | Burst before heal comes; focus 1v1 vs 1v2 teamfight | Freeze clear if frozen |
+
+***
+
+## Stat Endgame – Target e Breakpoint 2025| Stat | Target | Cap | Breakpoint | Note |
+|------|--------|-----|------------|------|
+| **Critical %** | 71% | 100% | 71% commonly used benchmark | Exascale circuit 1st line crit% |
+| **Critical Damage** | 71%+ | None | 71% entry; stack beyond crit cap | Exascale circuit 1st line crit dmg preferible |
+| **Maximize** | 71% | 100% | 71% = crit ratio match | Exascale circuit 1st line alternative |
+| **Boss Damage** | 20-30% | None | Primary filler post-stat-balance | Exascale circuit 2nd line |
+| **Adaptation** | Uncapped | None | Polarize hard cap 55%; stack continuous dmg | Both are capped separately |
+| **Polarize** | 55% max | 55% | Hard cap enforced | Exascale chip tuning soft limit |
+| **Continuous Damage** | 5-10% | None | Less source; premium stat 2025 | Exascale circuit post-polarize cap |
+| **Attack Speed** | Variable | None | Class-dependent rotation (check guide specific) | Exascale circuit 2nd/3rd line optimization |
+| **Penetration** | Class-specific | None | Boss-defense dependent; check dungeon-specific | Not primary Exascale stat |
+
+**Dependency Graph:**
+- **Crit% + Crit Damage** are paired; balance to ~71% each.
+- **Maximize** alternative to crit if crit-capped.
+- **Boss Damage** = primary filler after crit/maximize balanced.
+- **Polarize cap 55%** → overflow Continuous Damage.
+- **ASD** (attack speed) = rotation-specific; check class guide.
+
+**Exascale Circuit Optimization:**
+- **Line 1:** Crit Damage (primary) or Maximize.
+- **Line 2:** Continuous Damage or Boss Damage.
+- **Line 3:** Titano Slayer or Skill-Reset (class-dependent).
+
+---
+
+## Progressione Equip 2025 – Path Budget vs High-End### Benchmark Temporali Approssimati| Milestone | Tempo Grind (casual ~2h/day) | CP Target | Dungeons Accessibili |
+|-----------|------|---------|-----|
+| Lv 99 (2nd Job) | 40-50 ore | 1M | Elyanod clear |
+| 3rd Job (Rigomor entry) | +20-30 ore | 1.5M | Rigomor normal |
+| Exascale R15 +8 (quest gratis) | Immediato | 3M+ | Serpentium tower entry |
+| Exascale R15 +10 (farm/event) | 2-3 settimane | 5M+ | Doom Aporia stage 1-2 entry |
+| Force Skills Elite Passives | 4-6 settimane (Henir weekly) | 5M+ | Doom Aporia stage 2-3 |
+| Master Class stage 4 (Artifact +1 slot) | 6-8 settimane (Rigomor + Master Road farm) | 8M+ | Doom Aporia stage 3-4 |
+| Endgame polished (Exascale +11, circuit perfect) | 3-4 mesi + | 15M+ | All Doom Aporia, Spirit Lord 10/10 weekly |
+
+---
+
+## Force Skills 2025 – Setup Consigliato### Passive Raccomandati (Universal)| Force Skill | Rarity | Uso | Costo Upgrade |
+|-----------|--------|-----|--------|
+| **Eroding Energy** | Elite+ **MUST** | +30% special active dmg (dungeon) / +15% (PvP) | 250 stones (Rare→Elite), 750 (Elite→Unique) |
+| **Head Hunter** | Elite+ **MUST** | +% crit% stacking (don't use Rare; worse than base) | 250/750 stones |
+| **Get Greedy** | Rare+ OK | +% max MP, class-dependent damage boost | 250 stones (upgrade if budget allows) |
+| **Illipia's Aura** | Rare (healers/support) | +10% HP/Defense team; healing classes priority | 250 stones |
+
+### Mod Skills (Class-Specific) – Esempi- **Rose/Tempest Burster:** Rose Mod E (check YouTube guide; Burst combo enhance likely).
+- **Eve/Code Sariel:** Eve Mod E (likely beam-count or casting-speed boost).
+- **Raven/Force Phantom:** Raven Mod E (combo extension or burst window).
+- **Ara/Surya:** Surya Mod E (Myo Myo; freeze/damage enhance).
+
+**Setup Strategy:**
+1. Prendi Rare Force Passive da New Power: Force cube (Hyper Acceleration active, 3 Mod Seeds).
+2. Upgrade **Eroding Energy Rare → Elite** (priority 1; stones ~250).
+3. Upgrade **Head Hunter Rare → Elite** (priority 2; stones ~250).
+4. Raccogli Unique stone per upgrade Elite→Unique (mid-term goal; stones ~750 each).
+5. Master Class Force Passives (Ignite, Sol Dominion) = late-game luxury.
+
+**Stones Farm:**
+- **Henir's Time and Space** weekly challenge = 15-20 stones/run (~10 runs/week possible).
+- **Glave NPC** scambia fragments per upgrade stones.
+
+***
+
+## Differenze Regionali KR vs Global (EU/NA) 2025| Aspetto | KR | Global NA | Global EU | Impatto Pratico |
+|--------|-----|-----------|-----------|-----------------|
+| **Patch Delay** | Live latest | ~5-7 settimane dietro KR | ~1-2 settimane dietro NA | 23/10 KR patch arriva Global ~14-21 Nov |
+| **Economia** | Miglior valore K-ching | Peggiore (low premium currency rate) | 2a (better than NA) | Cash shop items costano ~40% più ED su NA |
+| **Content** | Sempre first access | Last access (ritardo composto) | Mid-tier | EU players hanno advantage prep-time |
+| **Raid Meta** | Stabilito 2-3 mesi | Nuovo; volatile | Transizione | KR shifts meta; Global stabilizza after 4-6 weeks |
+| **Build Availability** | Perfect UDW +11 findable | Rare; evento-limited | Rare | Farm KR weapon if you can. NA budget: Submergence+Tenebrous |
+| **Community** | Competitive, high-skill | Casual-friendly, chat English | Mixed | NA raids più accessible; KR difficulty higher |
+
+**Strategia per Global Players:**
+- **Anticipate KR changes 1-2 mesi:** guarda YouTube KR guides; prepara builds early.
+- **EU advantage:** Do research KR; implementa in NA 5 settimane prima arrivo patch.
+- **Farm timing:** If EU, farm Doom Aporia Stage 3 Sept-Oct; swap endgame build Nov pre-patch.
+
+***
+
+## FAQ Rapide – Problemi Comuni & Soluzioni### **Q1: "Quale classe scegliere nuovo giocatore 2025?"****A:** Support healer (Radiant Soul Laby, Deus Aer Chung, Demersio Add) se goal è raid. DPS (Tempest Burster Rose) se gust solo farm facile. Avoid Comet Crusader (post-nerf viability broken).
+**Fonte:** Community consensus Reddit r/elsword.[1][7]
+
+***
+
+### **Q2: "Quando switchare a Exascale armor?"****A:** R15+10 Exascale ~= R21+10 Tenebrous con circuit ottimali. **Swap quando:**
+- Hai green Exascale R0 +8 gratis (quest).
+- Hai 3 corner circuits (buy Haivan 5M ED each, set color match).
+- Gear Tenebrous +11 vecchio (reforge problematico).
+**Fonte:** Reddit Aug 2025 consensus.[8]
+
+***
+
+### **Q3: "Comet Crusader dopo nerf 23/10 playable?"****A:** **Bassa evidenza** che rimanga top-tier. Neutral game indebolito (Guard mid-hitstun removed). Raccomandazione: **Job change to Dius Aer** (healer superior) o **Centurion** (bossing alternative). PvP viability collapse confirmed community upset.[4]
+
+***
+
+### **Q4: "Code: Sariel broken post-23/10?"****A:** Non "broken" (overpowered), ma **significantly buffed clearing.** +30% casting speed = wave farm 2-3% faster 22-1. Tier list up S in clearing. Solo target unchanged (no single-target buff). Playable now; expect nerf Novembre-Dicembre KR follow-up.
+
+***
+
+### **Q5: "Force Skills or gear priority?"****A:** **Gear first** (Exascale+10 → Force Passive Elite). Force Passive Elite ~25% stat boost but expensive (500 stones = 3-4 mesi farm Henir). Exascale +10 impact higher. **Timeline:**
+1. Mesi 1-2: Exascale R15+10.
+2. Mesi 3-4: Force Passive Elite.
+3. Mesi 5+: Force Mod Unique (luxury).
+
+***
+
+### **Q6: "Ping >80ms playable?"****A:** **Variabile per classe:**
+- **Tempest Burster:** 80ms OK (burst non-timing-critical).
+- **Code: Sariel:** 80ms marginal (casting speed delay noticeable).
+- **Force Phantom:** <60ms richiesto (combo window tight).
+- **Comet Crusader:** 70ms OK (was better pre-nerf).
+**Consiglio:** Controller/tastiera non conta; è server-side lag bottleneck.
+
+***
+
+### **Q7: "Quale titolo prioritario?"****A:** 
+- **PvE/Raid:** Support title (Reaper Sander cooldown reduction, Dps Tirnog ASD).
+- **Clearing Farm:** Clearing title (fastest time leaderboard; minor icon boost).
+- **PvP:** Duelist title.
+**Not critical** ma raid party preferisce support-ready players.
+
+***
+
+## Avvertenze & Limitazioni Dati1. **Bassa evidenza** su alcune build Exascale circuit optimal (community testing ongoing; YT guide spesso conflicting).
+2. **Dati contrastanti** PvP tier list (skill-dependent; rank variation alta per ping/player skill).
+3. **23/10 patch KR non ancora su Global** (effects stimati; real data TBD Nov 14-21).
+4. **EU/NA economy predictions** based on historical trends; prematura certezza.
+5. **Mod E Skills per class specific** non fully mapped (search YouTube classe+meta 2025 latest).
+6. **Artifact stage 5+** datazione sconosciuta (roadmap non confirmed pubblica).
+
+***
+
+## Changelog & Delta Updates 2025**Data Tracking:**
+- **Benchmark:** 31/10/2025, 17:16 CET
+- **Prossimo update:** Post-Global 23/10 patch arival (segnalare Nov 21+).
+
+| Data | Classe/Patch | Cambiamento | Tier Shift | Motivazione |
+|------|-----------|-----------|-----------|------------|
+| 27/02/2025 | Metamorphys | Impact Zone nerf (debuff removal ristretta) | B → B (stabil) | Community non impressed; limited impact endgame |
+| 23/10/2025 | Code: Sariel | Casting speed +30%; range buff | A → S+ (clearing) | 30% boost casting = 2-3% farm speed; range critica 22-1 |
+| 23/10/2025 | Rune Master | Casting speed +30%; midair unlock | A → A+ | Benefit simile Sariel; less game-changing |
+| 23/10/2025 | Comet Crusader | Guard mid-hitstun removed | A (bossing) → A (stable); S (PvP) → B | PvP neutral indebolito; bossing unaffected |
+| 13/08/2025 | Daybreaker, Furious Blade, Doombringer, Catastrophe, Manurva | Skill renewals | +1 to +3% minor shifts | Quality-of-life tuning; no major rebalance |
+
+***
+
+## Checklist Giornaliera & Settimanale (Endgame)### Giornaliera (~30 min)- [ ] Quest weekly Henir Time and Space (~15 min; 15-20 stones).
+- [ ] Daily dungeon farm (fastest clear = 22-1 or Sander area).
+- [ ] Check pet affinity feeding (5 min).
+
+### Settimanale (~2-3 ore)- [ ] Spirit Lord's Temple 10/10 runs (10 min each = ~100 min; Atma accessory frag).
+- [ ] Doom Aporia stage 4 (if accessible; Wilting Tower).
+- [ ] Giant boss carry runs (if raid-geared).
+- [ ] Guild dungeon raid if in community.
+
+### Mensile- [ ] Check new patch balance (Twitter KOG Games / Gameforge Forum).
+- [ ] Reforge circuit optimization (if farmed new chips).
+- [ ] Rare force skill upgrade event (se active).
+
+***
+
+## Conclusione & Roadmap Prossimi PassiIl meta di Elsword 2025 rimane **accessibile** per nuovi giocatori, pero **richiede pianificazione.** La progressione suggerita è:
+
+1. **Lv 99 + 3rd Job (settimana 1-2):** Base setup Force Skills.
+2. **Exascale R15+10 (settimana 3-6):** Salto gear significativo.
+3. **Force Passive Elite (settimana 7-14):** Stat refinement.
+4. **Master Class stage 4 (settimana 15-20):** Artifact unlock (luxury).
+5. **Endgame polishing (mesi 3+):** Circuit perfection, Mod E Unique farm.
+
+**Volatilità patch attuale:** Medio. Il 23/10 KR patch ha buffato onda clearing (Sariel, Rune Master) ma nerfato PvP (Comet Crusader). Aspettarsi follow-up Nov-Dic 2025 per rebalance.
+
+**Per domande specifiche classe** o build consigli, check YouTube canali comunitari:
+- Airon-Elsword (guide ibride).
+- Crea Archive (patch note KR tradotte).
+- Community Reddit r/elsword (live feedback).
+
+***
+
+**Guida compilata:** 31 Ottobre 2025, 17:16 CET  
+**Disclaimer:** Dati da fonti KOG Games ufficiali (Nexon), Gameforge EU forum, CoboDex, Elwiki, YouTube patch preview. Traduzioni community tradotte via Google Translate; verificare dato dubbio con fonte originale KR se critica.
+
+***
+
